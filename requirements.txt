@@ -1,0 +1,5 @@
+txt
+django>=3.2
+pillow
+pywin32
+mysqlclient ; platform_system == "Windows"
